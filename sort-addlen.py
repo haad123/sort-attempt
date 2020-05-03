@@ -1,5 +1,5 @@
-# Changes 
-    # assinging n variable to lst length to allow n recursion 
+# Changes
+    # assigned n variable to lst length to allow n recursion 
     
 lst = [3, 7, 4, 5, 2, 6, 1]
 # Task:
